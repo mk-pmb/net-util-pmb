@@ -1,0 +1,25 @@
+{ "name": "net-util-pmb",
+  "version": "0.0.0",
+  "description": "Some networking utilities.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/net-util-pmb/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/net-util-pmb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/net-util-pmb/issues"
+  },
+  "contributors": [],
+
+  "private": true, "license": "ISC",
+
+  "dependencies": {},
+  "devDependencies": {
+  },
+
+
+  "engines": { "npm": ">=7.0.0", "bash": ">=5.0.0" }
+}
